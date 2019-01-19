@@ -1,7 +1,7 @@
 # ComputerVision
 ##### Clase 12/01/2019
 
-[![Watch the video](https://img.youtube.com/vi/jK2BC55VEsE/maxresdefault.jpg)](https://youtu.be/jK2BC55VEsE)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/jK2BC55VEsE)
 
 * https://docs.opencv.org/3.4/d8/d23/classcv_1_1Moments.html
 
