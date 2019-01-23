@@ -1,5 +1,5 @@
 # ComputerVision
-##### Clase 12/01/2019
+##### Clase 19/01/2019
 
 ![](balldetection.gif)
 
